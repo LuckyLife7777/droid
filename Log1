@@ -1,0 +1,2640 @@
+================
+-> Device Name
+
+[ Fail. Not found. ]
+
+================
+================
+-> Kernel
+
+3.18.131-ge6cddeaf153
+
+Linux localhost 3.18.131-ge6cddeaf153 #1 SMP PREEMPT Sat May 18 19:08:22 EDT 2019 aarch64
+
+================
+================
+-> BOOTLOADER
+
+locked
+
+================
+================
+-> Encryption
+
+encrypted
+
+file
+
+aes-256-cts
+
+================
+================
+-> Android Version 
+
+Android 9
+
+Android REL
+
+API 28
+
+================
+================
+-> System Version
+
+eng.joepac.20190525.193044
+
+================
+================
+-> Build Date
+
+25/May/2019 23:28:57 GMT
+
+Sat May 25 19:28:57 EDT 2019
+
+================
+================
+-> Security Patch
+
+2019-05-05
+
+================
+================
+-> HOST
+
+titanbox
+
+================
+================
+-> Type
+
+user
+
+userdebug
+
+================
+================
+-> Region
+
+GMT
+
+en-US
+
+================
+================
+-> SERIAL
+
+73c809c00bf9371
+
+================
+================
+-> IMEI
+
+089684350318569
+
+[SIM 1]: 089684350318569
+
+================
+================
+-> Android ID
+
+244eb965e964cac8
+
+================
+================
+-> Google Service Framework
+
+[ Fail. Google Services not found. ]
+
+================
+================
+-> ID Advertising
+
+[ Fail. Not found. ]
+
+================
+================
+-> Fingerprint
+
+google/marlin/marlin:9/PQ3A.190505.001/5373320:user/release-keys
+
+marlin-user 9 PQ3A.190505.001 5373320 release-keys
+
+================
+================
+-> User-Agent
+
+Dalvik/2.1.0 (Linux; U; Android 9; Pixel XL Build/PQ3A.190505.002)
+
+Mozilla/5.0 (Linux; Android 9; Pixel XL Build/PQ3A.190505.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/72.0.3626.121 Mobile Safari/537.36
+
+================
+================
+-> Radio/Modem/Baseband
+
+8996-130181-1811270246
+
+unknown
+
+msm
+
+================
+================
+-> SELINUX
+
+Activated
+
+================
+================
+-> KEYS
+
+release-keys
+
+================
+================
+-> Telefony
+
+[Localization]: null
+[IMEI]: 089684350318569
+[Number]: 2438084625
+[Country]: MZ
+[Operator Code]: 64304
+[Operator Name]: Vodacom
+[Quantity of SIM]: 1
+[SIM Serial]: 39412641407316789985
+[SIM ID]: 73631930780497039756
+[Voice Mail Name]: Голосовая почта
+[Voice Mail Number]: 
+[Network]: Unknown
+[Country]: ua
+
+================
+================
+-> SIM
+
+[ Fail. No SIM found. ]
+
+================
+================
+-> Market Name
+
+[ Fail. Not found. ]
+
+================
+================
+-> Device
+
+marlin
+
+================
+================
+-> Brand
+
+google
+
+================
+================
+-> Model
+
+Pixel XL
+
+================
+================
+-> Product
+
+marlin
+
+lineage_marlin
+
+================
+================
+-> DISPLAY ID
+
+PQ3A.190505.002
+
+================
+================
+-> Manufacturer
+
+Google
+
+================
+================
+-> Hardware
+
+MARLIN
+MSM8996
+
+kryo
+
+aarch64
+arm64-v8a
+armeabi-v7a
+
+================
+================
+-> BUILDS
+
+[BRAND]: google
+[DEVICE]: marlin
+[FINGERPRINT]: google/marlin/marlin:9/PQ3A.190505.001/5373320:user/release-keys
+[HARDWARE]: marlin
+[MANUFACTURER]: Google
+[MODEL]: Pixel XL
+[PRODUCT]: marlin
+[RADIO]: unknown
+[SERIAL]: 73c809c00bf9371
+[BOARD]: marlin
+[BOOTLOADER]: 8996-012001-1811131534
+[CPU_ABI]: arm64-v8a
+[DISPLAY]: PQ3A.190505.002
+[HOST]: titanbox
+[ID]: PQ3A.190505.002
+[TIME]: 25/May/2019 23:28:57 GMT
+[TYPE]: user
+[USER]: joepacino
+[VERSION.CODENAME]: REL
+[VERSION.INCREMENTAL]: eng.joepac.20190525.193044
+[VERSION.RELEASE]: 9
+[VERSION.SDK]: 28
+[VERSION.SDK_INT]: 28
+
+================
+================
+-> Accounts
+
+[ Fail. No account found. ]
+
+================
+================
+-> Bluetooh MAC
+
+12:8d:a6:1d:ac:db
+
+================
+================
+-> Bounded Bluetooh Devices
+
+[ Fail. No bounded bluetooth device. ]
+
+================
+================
+-> Wi-Fi
+
+[MAC Android]: 58:b4:15:63:93:27
+
+[MAC Network]: 06:c3:6b:a6:b1:d4
+[Name]: "WIUnJxUPW8tyu339"
+[IP]: 192.168.3.25
+[Speed]: 866 Mbps
+
+- DHCP: -
+
+[IP]: 192.168.3.25
+[Gateway]: 192.168.3.1
+[DNS-1]: 8.8.8.8
+
+- Configured Wi-Fi: -
+
+[Name]: "HUAWEI-N1A4YL_5G"
+
+================
+================
+-> Networks
+
+[LoopBack]: ip6-localhost/::1
+
+[Network Name]: dummy0
+[IP]: fe80::fc81:2eff:fe19:e506 (fe80::fc81:2eff:fe19:e506%dummy0)
+
+[Network Name]: r_rmnet_data2
+
+[Network Name]: r_rmnet_data3
+
+[Network Name]: r_rmnet_data0
+
+[Network Name]: ip_vti0
+
+[Network Name]: lo
+[IP]: ::1 (ip6-localhost)
+[IP]: 127.0.0.1 (localhost)
+
+[Network Name]: r_rmnet_data1
+
+[Network Name]: wlan0
+[IP]: fe80::424e:36ff:fe7f:30cd (fe80::424e:36ff:fe7f:30cd%wlan0)
+[IP]: 192.168.3.25 (192.168.3.25)
+
+[Network Name]: ip6tnl0
+
+[Network Name]: bond0
+
+[Network Name]: ip6_vti0
+
+[Network Name]: sit0
+
+[Network Name]: rmnet_data7
+
+[Network Name]: rmnet_data0
+
+[Network Name]: p2p0
+
+[Network Name]: rmnet_data2
+
+[Network Name]: rmnet_data1
+
+[Network Name]: rmnet_data4
+
+[Network Name]: rmnet_data3
+
+[Network Name]: rmnet_data6
+
+[Network Name]: rmnet_data5
+
+[Network Name]: r_rmnet_data8
+
+[Network Name]: r_rmnet_data6
+
+[Network Name]: r_rmnet_data7
+
+[Network Name]: r_rmnet_data4
+
+[Network Name]: r_rmnet_data5
+
+[Network Name]: rmnet_ipa0
+
+================
+================
+-> BUILD PROPS
+
+[ro.bootimage.build.fingerprint]: google/marlin/marlin:9/PQ3A.190505.001/5373320:user/release-keys
+[ro.build.fingerprint]: google/marlin/marlin:9/PQ3A.190505.001/5373320:user/release-keys
+[ro.build.description]: marlin-user 9 PQ3A.190505.001 5373320 release-keys
+[ro.build.id]: PQ3A.190505.002
+[ro.build.host]: titanbox
+[ro.build.product]: marlin
+[ro.build.user]: joepacino
+[ro.build.version.codename]: REL
+[ro.build.version.incremental]: eng.joepac.20190525.193044
+[ro.build.version.release]: 9
+[ro.build.version.security_patch]: 2019-05-05
+[ro.hardware]: marlin
+[ro.hardware.power]: marlin
+[ro.product.board]: marlin
+[ro.product.brand]: google
+[ro.product.cpu.abi]: arm64-v8a
+[ro.product.cpu.abilist]: arm64-v8a,armeabi-v7a,armeabi
+[ro.product.cpu.abilist32]: armeabi-v7a,armeabi
+[ro.product.cpu.abilist64]: arm64-v8a
+[ro.product.device]: marlin
+[ro.product.manufacturer]: Google
+[ro.product.model]: Pixel XL
+[ro.product.name]: marlin
+[ro.vendor.build.fingerprint]: google/marlin/marlin:9/PQ3A.190505.001/5373320:user/release-keys
+[ro.build.type]: user
+[ro.build.tags]: release-keys
+[ro.build.display.id]: PQ3A.190505.002
+[ro.debuggable]: 0
+[ro.secure]: 1
+[dalvik.vm.isa.arm.variant]: kryo
+[dalvik.vm.isa.arm64.variant]: kryo
+[gsm.network.type]: Unknown
+[gsm.operator.iso-country]: ua
+[gsm.version.baseband]: 8996-130181-1811270246
+[gsm.version.ril-impl]: Qualcomm RIL 1.0
+[net.bt.name]: Android
+[persist.sys.timezone]: GMT
+[ro.allow.mock.location]: 0
+[ro.baseband]: msm
+[ro.board.platform]: msm8996
+[ro.boot.flash.locked]: 1
+[ro.boot.hardware]: marlin
+[ro.boot.hardware.color]: GRA00
+[ro.boot.hardware.ddr]: 4096MB,Hynix,LPDDR4
+[ro.boot.hardware.revision]: PVT
+[ro.boot.hardware.ufs]: 32GB,Samsung
+[ro.boot.verifiedbootstate]: green
+[ro.bootimage.build.date]: Sat May 25 19:28:57 EDT 2019
+[ro.bootimage.build.date.utc]: 1558826937
+[ro.bootloader]: 8996-012001-1811131534
+[ro.bootmode]: unknown
+[ro.build.date]: Sat May 25 19:28:57 EDT 2019
+[ro.build.date.utc]: 1558826937
+[ro.build.flavor]: lineage_marlin-userdebug
+[ro.build.system_root_image]: true
+[ro.build.version.all_codenames]: REL
+[ro.build.version.min_supported_target_sdk]: 17
+[ro.build.version.preview_sdk]: 0
+[ro.build.version.sdk]: 28
+[ro.carrier]: unknown
+[ro.com.google.clientidbase]: android-google
+[ro.control_privapp_permissions]: log
+[ro.crypto.state]: encrypted
+[ro.crypto.type]: file
+[ro.crypto.volume.filenames_mode]: aes-256-cts
+[ro.frp.pst]: /dev/block/platform/soc/624000.ufshc/by-name/frp
+[ro.oem_unlock_supported]: 1
+[ro.opengles.version]: 196610
+[ro.product.first_api_level]: 25
+[ro.product.locale]: en-US
+[ro.product.vendor.brand]: google
+[ro.product.vendor.device]: marlin
+[ro.product.vendor.manufacturer]: Google
+[ro.product.vendor.model]: Pixel XL
+[ro.product.vendor.name]: lineage_marlin
+[ro.vendor.build.date]: Sat May 25 19:28:57 EDT 2019
+[ro.vendor.build.date.utc]: 1558826937
+[ro.vendor.build.id]: PQ3A.190505.002
+[ro.vendor.build.security_patch]: 2019-05-05
+[ro.vendor.build.tags]: release-keys
+[ro.vendor.build.type]: userdebug
+[ro.vendor.build.version.incremental]: eng.joepac.20190525.193044
+[ro.vendor.build.version.release]: 9
+[ro.vendor.build.version.sdk]: 28
+[ro.vendor.product.cpu.abilist]: arm64-v8a,armeabi-v7a,armeabi
+[ro.vendor.product.cpu.abilist32]: armeabi-v7a,armeabi
+[ro.vendor.product.cpu.abilist64]: arm64-v8a
+
+================
+================
+-> Memory
+
+MemTotal:        3855776 kB
+MemFree:           92376 kB
+MemAvailable:    1298484 kB
+Buffers:           76068 kB
+Cached:          1300980 kB
+SwapCached:         1132 kB
+Active:          1640212 kB
+Inactive:         883924 kB
+Active(anon):     915960 kB
+Inactive(anon):   336760 kB
+Active(file):     724252 kB
+Inactive(file):   547164 kB
+Unevictable:       89648 kB
+Mlocked:           89648 kB
+SwapTotal:        524284 kB
+SwapFree:         484060 kB
+Dirty:                44 kB
+Writeback:             0 kB
+AnonPages:       1235736 kB
+Mapped:           633968 kB
+Shmem:             16004 kB
+Slab:             208532 kB
+SReclaimable:      79048 kB
+SUnreclaim:       129484 kB
+KernelStack:       32480 kB
+PageTables:        44204 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     2452172 kB
+Committed_AS:   75430840 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:      216932 kB
+VmallocChunk:   258729956 kB
+
+================
+================
+-> Calls
+
+[ Fail. No call found. ]
+
+================
+================
+-> Running Services
+
+[ Fail. No running services found. ]
+
+================
+================
+-> Running Processes
+
+[Group]: 10181
+[Process]: com.vitaodoidao.vdinfos
+[Package]: com.vitaodoidao.vdinfos;
+
+================
+================
+-> Installed Packages
+
+[Package]: com.android.systemui.qstile.oreocircletrim
+[Version]: 1.0
+
+[Package]: com.google.android.carriersetup
+[Version]: 9
+
+[Package]: com.android.gboard.theme.black
+[Version]: 1.0
+
+[Package]: com.android.system.notification.black
+[Version]: 1.0
+
+[Package]: icu.nullptr.applistdetector
+[Version]: 2.4
+
+[Package]: com.android.cts.priv.ctsshim
+[Version]: 8.1.0-4396705
+
+[Package]: com.vzw.apnlib
+[Version]: 13.0
+
+[Package]: com.android.systemui.qstile.cookie
+[Version]: 1.0
+
+[Package]: com.android.internal.display.cutout.emulation.corner
+[Version]: 1.0
+
+[Package]: com.android.internal.display.cutout.emulation.double
+[Version]: 1.0
+
+[Package]: com.android.providers.telephony
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: io.appium.settings
+[Version]: 3.4.0
+
+[Package]: com.android.sdm.plugins.connmo
+[Version]: 1.0
+[Group]: android.uid.phone
+
+[Package]: com.verizon.mips.services
+[Version]: 1.0.110.4
+
+[Package]: com.android.system.switch.oneplus
+[Version]: 1.0
+
+[Package]: com.vkontakte.android
+[Version]: 8.31
+
+[Package]: com.android.providers.calendar
+[Version]: 9
+[Group]: android.uid.calendar
+
+[Package]: com.android.providers.media
+[Version]: 9
+[Group]: android.media
+
+[Package]: com.qti.service.colorservice
+[Version]: 1.0
+[Group]: android.uid.system
+
+[Package]: com.qualcomm.ltebc_vzw
+[Version]: MSDC_LA_3.6.06.13.1
+
+[Package]: com.accents.deeporange
+[Version]: 1.0
+
+[Package]: com.qualcomm.shutdownlistner
+[Version]: 9
+
+[Package]: com.android.wallpapercropper
+[Version]: 9
+
+[Package]: com.quicinc.cne.CNEService
+[Version]: 1.0
+[Group]: android.uid.system
+
+[Package]: com.accents.deeppurple
+[Version]: 1.0
+
+[Package]: com.android1500.androidfaker
+[Version]: 1.8.3
+
+[Package]: com.htc.omadm.trigger
+[Version]: 1.0
+[Group]: android.uid.phone
+
+[Package]: com.crdroid.weather.client
+[Version]: 9
+
+[Package]: com.android.wellbeing.theme.black
+[Version]: 1.0
+
+[Package]: com.android.documentsui
+[Version]: 9
+
+[Package]: android.auto_generated_rro__
+[Version]: 1.0
+
+[Package]: com.android.externalstorage
+[Version]: 9
+
+[Package]: com.android.htmlviewer
+[Version]: 9
+
+[Package]: com.android.companiondevicemanager
+[Version]: 9
+
+[Package]: com.accents.bluegrey
+[Version]: 1.0
+
+[Package]: com.verizon.obdm_permissions
+[Version]: 3
+
+[Package]: com.android.mms.service
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: com.android.providers.downloads
+[Version]: 9
+[Group]: android.media
+
+[Package]: com.android.messaging
+[Version]: 1.0.001
+
+[Package]: com.android.terminal
+[Version]: 9
+
+[Package]: com.crdroid.overlay.hidecutout
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.squircle
+[Version]: 1.0
+
+[Package]: com.tsng.hidemyapplist
+[Version]: 3.1.1
+
+[Package]: com.android.systemui.qsheader.lightgrey
+[Version]: 1.0
+
+[Package]: com.android.systemui.qsheader.transparent
+[Version]: 1.0
+
+[Package]: com.accents.userseven
+[Version]: 1.0
+
+[Package]: com.accents.userthree
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.squircletrim
+[Version]: 1.0
+
+[Package]: com.accents.userfive
+[Version]: 1.0
+
+[Package]: com.accents.userfour
+[Version]: 1.0
+
+[Package]: com.qualcomm.qti.telephonyservice
+[Version]: 9
+
+[Package]: com.accents.lightgreen
+[Version]: 1.0
+
+[Package]: k.d.zf
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.ink
+[Version]: 1.0
+
+[Package]: org.lineageos.lockclock
+[Version]: 3.5
+
+[Package]: io.appium.uiautomator2.server
+[Version]: 4.27.0
+
+[Package]: com.android.defcontainer
+[Version]: 9
+
+[Package]: com.android.providers.downloads.ui
+[Version]: 9
+[Group]: android.media
+
+[Package]: com.android.pacprocessor
+[Version]: 9
+
+[Package]: com.android.simappdialog
+[Version]: 9
+
+[Package]: com.android.systemui.qstile.ninja
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.wavey
+[Version]: 1.0
+
+[Package]: com.android.system.switch.stock
+[Version]: 1.0
+
+[Package]: com.accents.indigo
+[Version]: 1.0
+
+[Package]: com.accents.lightblue
+[Version]: 1.0
+
+[Package]: org.lineageos.profiles
+[Version]: 9
+
+[Package]: com.google.intelligence.sense.theme.black
+[Version]: 1.0
+
+[Package]: com.android.internal.display.cutout.emulation.tall
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.circlegradient
+[Version]: 1.0
+
+[Package]: com.android.certinstaller
+[Version]: 9
+
+[Package]: com.android.carrierconfig
+[Version]: 1.0.0
+
+[Package]: com.android.systemui.qstile.squaremedo
+[Version]: 1.0
+
+[Package]: com.qti.qualcomm.datastatusnotification
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: android
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.hotwordenrollment.xgoogle
+[Version]: 9
+
+[Package]: com.android.sysui.theme.black
+[Version]: 1.0
+
+[Package]: com.android.contacts
+[Version]: 1.7.31
+
+[Package]: com.android.camera2
+[Version]: 2.0.002
+
+[Package]: com.accents.orange
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.dualtonecircletrim
+[Version]: 1.0
+
+[Package]: org.lineageos.recorder
+[Version]: 9
+
+[Package]: com.accents.purple
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.mountain
+[Version]: 1.0
+
+[Package]: com.android.egg
+[Version]: 1.0
+
+[Package]: com.android.mtp
+[Version]: 9
+[Group]: android.media
+
+[Package]: com.android.nfc
+[Version]: 9
+[Group]: android.uid.nfc
+
+[Package]: com.android.stk
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: com.android.launcher3
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.backupconfirm
+[Version]: 9
+
+[Package]: org.lineageos.weather.provider
+[Version]: 1.0
+
+[Package]: com.google.intelligence.sense.theme.dark
+[Version]: 1.0
+
+[Package]: com.android.provision
+[Version]: 9
+
+[Package]: com.qualcomm.qti.radioconfiginterface
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: org.codeaurora.ims
+[Version]: 1.0
+[Group]: android.uid.phone
+
+[Package]: com.android.statementservice
+[Version]: 1.0
+
+[Package]: com.accents.yellow
+[Version]: 1.0
+
+[Package]: com.android.sdm.plugins.sprintdm
+[Version]: 1.0
+[Group]: android.uid.phone
+
+[Package]: com.android.settings.intelligence
+[Version]: 9
+
+[Package]: com.android.calendar
+[Version]: 9
+
+[Package]: com.android.systemui.theme.dark
+[Version]: 1.0
+
+[Package]: com.qualcomm.qti.auth.secureextauthservice
+[Version]: 1.0
+[Group]: android.uid.system
+
+[Package]: com.qualcomm.qcrilmsgtunnel
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: com.android.providers.settings
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.sharedstoragebackup
+[Version]: 9
+
+[Package]: com.google.android.asdiv
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.printspooler
+[Version]: 9
+
+[Package]: com.android.hotwordenrollment.okgoogle
+[Version]: 9
+
+[Package]: com.android.sdm.plugins.diagmon
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: com.android.dreams.basic
+[Version]: 9
+
+[Package]: com.android.gboard.theme.dark
+[Version]: 1.0
+
+[Package]: com.android.webview
+[Version]: 72.0.3626.121
+
+[Package]: com.android.se
+[Version]: 9
+[Group]: android.uid.se
+
+[Package]: com.vitaodoidao.vdinfos
+[Version]: 1.10
+
+[Package]: com.android.inputdevices
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.systemui.qstile.pokesign
+[Version]: 1.0
+
+[Package]: com.android.hotwordenrollment.tgoogle
+[Version]: 9
+
+[Package]: com.android.bips
+[Version]: 9
+
+[Package]: com.google.android.carrier.authdialog
+[Version]: 9
+
+[Package]: com.accents.amber
+[Version]: 1.0
+
+[Package]: com.accents.black
+[Version]: 1.0
+
+[Package]: com.accents.brown
+[Version]: 1.0
+
+[Package]: com.accents.green
+[Version]: 1.0
+
+[Package]: com.accents.white
+[Version]: 1.0
+
+[Package]: com.android.cellbroadcastreceiver
+[Version]: 9
+
+[Package]: android.ext.shared
+[Version]: 1
+
+[Package]: com.android.onetimeinitializer
+[Version]: 9
+
+[Package]: com.android.systemui.qstile.circletrim
+[Version]: 1.0
+
+[Package]: com.genymobile.gnirehtet
+[Version]: 2.6.5
+
+[Package]: com.android.server.telecom
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.keychain
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.service.ims
+[Version]: 2.4.6
+[Group]: android.uid.phone
+
+[Package]: com.android.printservice.recommendation
+[Version]: 1.3.0
+
+[Package]: com.accents.blue
+[Version]: 1.0
+
+[Package]: com.accents.cyan
+[Version]: 1.0
+
+[Package]: com.accents.grey
+[Version]: 1.0
+
+[Package]: com.accents.lime
+[Version]: 1.0
+
+[Package]: com.accents.pink
+[Version]: 1.0
+
+[Package]: com.accents.teal
+[Version]: 1.0
+
+[Package]: com.qualcomm.qti.rcsbootstraputil
+[Version]: 7.1
+[Group]: android.uid.phone
+
+[Package]: com.android.dialer
+[Version]: 19.0
+
+[Package]: com.android.gallery3d
+[Version]: 1.1.40030
+
+[Package]: com.android.system.theme.black
+[Version]: 1.0
+
+[Package]: android.ext.services
+[Version]: 1
+
+[Package]: com.android.calllogbackup
+[Version]: 9
+[Group]: android.uid.shared
+
+[Package]: com.android.wellbeing.theme.dark
+[Version]: 1.0
+
+[Package]: com.android.packageinstaller
+[Version]: 9
+
+[Package]: com.android.settings.intelligence.theme.black
+[Version]: 1.0
+
+[Package]: com.android.carrierdefaultapp
+[Version]: 9
+
+[Package]: org.lineageos.jelly
+[Version]: 9
+
+[Package]: com.android.proxyhandler
+[Version]: 9
+
+[Package]: com.crdroid.overlay.statusbarstock
+[Version]: 1.0
+
+[Package]: com.android.inputmethod.latin
+[Version]: 9
+
+[Package]: com.android.system.switch.md2
+[Version]: 1.0
+
+[Package]: com.android.managedprovisioning
+[Version]: 9
+
+[Package]: com.android.system.notification.dark
+[Version]: 1.0
+
+[Package]: com.android.dreams.phototable
+[Version]: 9
+
+[Package]: com.android.systemui.qstile.dualtonecircle
+[Version]: 1.0
+
+[Package]: com.android.sdm.plugins.dcmo
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: io.appium.uiautomator2.server.test
+[Version]: null
+
+[Package]: com.android.smspush
+[Version]: 9
+
+[Package]: com.android.settings.intelligence.theme.dark
+[Version]: 1.0
+
+[Package]: com.android.service.ims.presence
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: com.android.wallpaper.livepicker
+[Version]: 9
+
+[Package]: org.lineageos.audiofx
+[Version]: 2.2.0
+
+[Package]: com.android.apps.tag
+[Version]: 1.1
+
+[Package]: com.accents.userone
+[Version]: 1.0
+
+[Package]: com.accents.usersix
+[Version]: 1.0
+
+[Package]: com.accents.usertwo
+[Version]: 1.0
+
+[Package]: com.android.storagemanager
+[Version]: 9
+
+[Package]: com.android.bookmarkprovider
+[Version]: 9
+
+[Package]: com.android.settings
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.qualcomm.qti.ims
+[Version]: 1.0
+[Group]: android.uid.phone
+
+[Package]: com.google.android.wfcactivation
+[Version]: 9
+
+[Package]: com.android.calculator2
+[Version]: 9
+
+[Package]: com.verizon.obdm
+[Version]: 1.2.0
+
+[Package]: com.android.omadm.service
+[Version]: 1.0.0
+[Group]: com.android.uid.omadm.service
+
+[Package]: com.android.cts.ctsshim
+[Version]: 8.1.0-4396705
+
+[Package]: org.lineageos.lineageparts
+[Version]: 1.0
+[Group]: android.uid.system
+
+[Package]: com.google.android.hiddenmenu
+[Version]: 1.0
+[Group]: android.uid.system
+
+[Package]: com.android.systemui.qstile.default
+[Version]: 1.0
+
+[Package]: com.android.system.theme.dark
+[Version]: 1.0
+
+[Package]: org.lineageos.lineagesettings
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.crdroid.fonts
+[Version]: 9
+
+[Package]: com.crdroid.music
+[Version]: 9.0
+
+[Package]: com.android.vpndialogs
+[Version]: 9
+
+[Package]: lineageos.platform
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.accents.red
+[Version]: 1.0
+
+[Package]: com.android.email
+[Version]: 9
+
+[Package]: com.android.phone
+[Version]: 9
+[Group]: android.uid.phone
+
+[Package]: com.android.shell
+[Version]: 9
+[Group]: android.uid.shell
+
+[Package]: com.android.wallpaperbackup
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.providers.blockednumber
+[Version]: 9
+[Group]: android.uid.shared
+
+[Package]: com.android.systemui.qstile.dottedcircle
+[Version]: 1.0
+
+[Package]: com.android.providers.userdictionary
+[Version]: 9
+[Group]: android.uid.shared
+
+[Package]: com.android.emergency
+[Version]: 9
+[Group]: com.android.emergency.uid
+
+[Package]: com.android.location.fused
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.deskclock
+[Version]: 9
+
+[Package]: com.android.systemui
+[Version]: 9
+[Group]: android.uid.systemui
+
+[Package]: com.android.settings.theme.black
+[Version]: 1.0
+
+[Package]: com.android.exchange
+[Version]: 9
+
+[Package]: com.android.settings.theme.dark
+[Version]: 1.0
+
+[Package]: com.android.systemui.qsheader.grey
+[Version]: 1.0
+
+[Package]: com.android.bluetoothmidiservice
+[Version]: 9
+
+[Package]: com.android.systemui.qsheader.black
+[Version]: 1.0
+
+[Package]: com.android.sysui.theme.dark
+[Version]: 1.0
+
+[Package]: com.android.systemui.qstile.inkdrop
+[Version]: 1.0
+
+[Package]: com.qualcomm.fastdormancy
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.systemui.qstile.oreosquircletrim
+[Version]: 1.0
+
+[Package]: com.android.traceur
+[Version]: 1.0
+
+[Package]: qualcomm.com.vzw_msdc_api
+[Version]: MSDC_LA_3.6.06.13.1-vzw
+
+[Package]: com.android.bluetooth
+[Version]: 9
+[Group]: android.uid.bluetooth
+
+[Package]: com.qualcomm.timeservice
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.development
+[Version]: 1.0
+[Group]: android.uid.system
+
+[Package]: com.qualcomm.atfwd
+[Version]: 9
+[Group]: android.uid.system
+
+[Package]: com.android.wallpaperpicker
+[Version]: 1.0
+
+[Package]: com.qualcomm.embms
+[Version]: 1.0
+
+[Package]: com.android.providers.contacts
+[Version]: 9
+[Group]: android.uid.shared
+
+[Package]: com.android.systemui.qstile.teardrop
+[Version]: 1.0
+
+[Package]: com.android.captiveportallogin
+[Version]: 9
+
+[Package]: com.android.systemui.qstile.oreo
+[Version]: 1.0
+
+[Package]: com.android.systemui.qsheader.accent
+[Version]: 1.0
+
+[Package]: com.android.vzwomatrigger
+[Version]: 9
+
+================
+================
+-> Installed Applications
+
+[ID]: 10091
+[Dir]: /data/user/0/com.android.systemui.qstile.oreocircletrim
+[Package]: com.android.systemui.qstile.oreocircletrim
+[Dir]: /system/app/QStileOreoCircleTrim/QStileOreoCircleTrim.apk
+[Libraries]: /system/app/QStileOreoCircleTrim/lib/arm64
+
+[ID]: 10034
+[Dir]: /data/user/0/com.google.android.carriersetup
+[Package]: com.google.android.carriersetup
+[Dir]: /system/priv-app/CarrierSetup/CarrierSetup.apk
+[Libraries]: /system/priv-app/CarrierSetup/lib/arm64
+
+[ID]: 10057
+[Dir]: /data/user/0/com.android.gboard.theme.black
+[Package]: com.android.gboard.theme.black
+[Dir]: /system/app/GBoardBlack/GBoardBlack.apk
+[Libraries]: /system/app/GBoardBlack/lib/arm64
+
+[ID]: 10137
+[Dir]: /data/user/0/com.android.system.notification.black
+[Package]: com.android.system.notification.black
+[Dir]: /system/app/NotificationBlack/NotificationBlack.apk
+[Libraries]: /system/app/NotificationBlack/lib/arm64
+
+[Name]: icu.nullptr.applistdetector.MyApplication
+[ID]: 10172
+[Dir]: /data/user/0/icu.nullptr.applistdetector
+[Package]: icu.nullptr.applistdetector
+[Dir]: /data/app/icu.nullptr.applistdetector-fmvPNqgO1haEb3ziH5sdIg==/base.apk
+[Libraries]: /data/app/icu.nullptr.applistdetector-fmvPNqgO1haEb3ziH5sdIg==/lib/arm64
+
+[ID]: 10037
+[Dir]: /data/user/0/com.android.cts.priv.ctsshim
+[Package]: com.android.cts.priv.ctsshim
+[Dir]: /system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk
+[Libraries]: /system/priv-app/CtsShimPrivPrebuilt/lib/arm64
+
+[ID]: 10059
+[Dir]: /data/user/0/com.vzw.apnlib
+[Package]: com.vzw.apnlib
+[Dir]: /system/app/VZWAPNLib/VZWAPNLib.apk
+[Libraries]: /system/app/VZWAPNLib/lib/arm64
+
+[ID]: 10101
+[Dir]: /data/user/0/com.android.systemui.qstile.cookie
+[Package]: com.android.systemui.qstile.cookie
+[Dir]: /system/app/QStileCookie/QStileCookie.apk
+[Libraries]: /system/app/QStileCookie/lib/arm64
+
+[ID]: 10002
+[Dir]: /data/user/0/com.android.internal.display.cutout.emulation.corner
+[Package]: com.android.internal.display.cutout.emulation.corner
+[Dir]: /vendor/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+[Libraries]: /vendor/overlay/DisplayCutoutEmulationCorner/lib/arm64
+
+[ID]: 10004
+[Dir]: /data/user/0/com.android.internal.display.cutout.emulation.double
+[Package]: com.android.internal.display.cutout.emulation.double
+[Dir]: /vendor/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk
+[Libraries]: /vendor/overlay/DisplayCutoutEmulationDouble/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user_de/0/com.android.providers.telephony
+[Package]: com.android.providers.telephony
+[Dir]: /system/priv-app/TelephonyProvider/TelephonyProvider.apk
+[Libraries]: /system/priv-app/TelephonyProvider/lib/arm64
+[Process]: com.android.phone
+
+[ID]: 10166
+[Dir]: /data/user/0/io.appium.settings
+[Package]: io.appium.settings
+[Dir]: /data/app/io.appium.settings-90KNrKJu_xs2v2-d-k9-RQ==/base.apk
+[Libraries]: /data/app/io.appium.settings-90KNrKJu_xs2v2-d-k9-RQ==/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.android.sdm.plugins.connmo
+[Package]: com.android.sdm.plugins.connmo
+[Dir]: /system/priv-app/ConnMO/ConnMO.apk
+[Libraries]: /system/priv-app/ConnMO/lib/arm64
+[Process]: com.android.phone
+
+[Name]: com.verizon.mips.services.MyVerizonServicesApplication
+[ID]: 10035
+[Dir]: /data/user/0/com.verizon.mips.services
+[Package]: com.verizon.mips.services
+[Dir]: /system/priv-app/MyVerizonServices/MyVerizonServices.apk
+[Libraries]: /system/priv-app/MyVerizonServices/lib/arm64
+
+[ID]: 10126
+[Dir]: /data/user/0/com.android.system.switch.oneplus
+[Package]: com.android.system.switch.oneplus
+[Dir]: /system/app/OnePlusSwitch/OnePlusSwitch.apk
+[Libraries]: /system/app/OnePlusSwitch/lib/arm64
+
+[Name]: com.vkontakte.android.VKApplication
+[ID]: 10178
+[Dir]: /data/user/0/com.vkontakte.android
+[Package]: com.vkontakte.android
+[Dir]: /data/app/com.vkontakte.android-6JBA4Jxi8OOYHTVjkWA77w==/base.apk
+[Libraries]: /data/app/com.vkontakte.android-6JBA4Jxi8OOYHTVjkWA77w==/lib/arm64
+
+[ID]: 10025
+[Dir]: /data/user/0/com.android.providers.calendar
+[Package]: com.android.providers.calendar
+[Dir]: /system/priv-app/CalendarProvider/CalendarProvider.apk
+[Libraries]: /system/priv-app/CalendarProvider/lib/arm64
+
+[ID]: 10009
+[Dir]: /data/user/0/com.android.providers.media
+[Package]: com.android.providers.media
+[Dir]: /system/priv-app/MediaProvider/MediaProvider.apk
+[Libraries]: /system/priv-app/MediaProvider/lib/arm64
+[Process]: android.process.media
+
+[ID]: 1000
+[Dir]: /data/user/0/com.qti.service.colorservice
+[Package]: com.qti.service.colorservice
+[Dir]: /vendor/app/colorservice/colorservice.apk
+[Libraries]: /vendor/app/colorservice/lib/arm64
+
+[Name]: com.qualcomm.ltebc_vzw.LTEVZWApplication
+[ID]: 10162
+[Dir]: /data/user/0/com.qualcomm.ltebc_vzw
+[Package]: com.qualcomm.ltebc_vzw
+[Dir]: /vendor/app/QAS_DVC_MSP/QAS_DVC_MSP.apk
+[Libraries]: /vendor/app/QAS_DVC_MSP/lib/arm
+
+[ID]: 10104
+[Dir]: /data/user/0/com.accents.deeporange
+[Package]: com.accents.deeporange
+[Dir]: /system/app/DeepOrange/DeepOrange.apk
+[Libraries]: /system/app/DeepOrange/lib/arm64
+
+[ID]: 10160
+[Dir]: /data/user/0/com.qualcomm.shutdownlistner
+[Package]: com.qualcomm.shutdownlistner
+[Dir]: /vendor/app/shutdownlistener/shutdownlistener.apk
+[Libraries]: /vendor/app/shutdownlistener/lib/arm64
+
+[ID]: 10027
+[Dir]: /data/user/0/com.android.wallpapercropper
+[Package]: com.android.wallpapercropper
+[Dir]: /system/priv-app/WallpaperCropper/WallpaperCropper.apk
+[Libraries]: /system/priv-app/WallpaperCropper/lib/arm64
+
+[Name]: com.quicinc.cne.CNEService.CNEServiceApp
+[ID]: 1000
+[Dir]: /data/user_de/0/com.quicinc.cne.CNEService
+[Package]: com.quicinc.cne.CNEService
+[Dir]: /system/priv-app/CNEService/CNEService.apk
+[Libraries]: /system/priv-app/CNEService/lib/arm64
+
+[ID]: 10139
+[Dir]: /data/user/0/com.accents.deeppurple
+[Package]: com.accents.deeppurple
+[Dir]: /system/app/DeepPurple/DeepPurple.apk
+[Libraries]: /system/app/DeepPurple/lib/arm64
+
+[Name]: com.android1500.androidfaker.App
+[ID]: 10167
+[Dir]: /data/user/0/com.android1500.androidfaker
+[Package]: com.android1500.androidfaker
+[Dir]: /data/app/com.android1500.androidfaker-tNIQjRw-GzGesE6c7L0fsg==/base.apk
+[Libraries]: /data/app/com.android1500.androidfaker-tNIQjRw-GzGesE6c7L0fsg==/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.htc.omadm.trigger
+[Package]: com.htc.omadm.trigger
+[Dir]: /system/priv-app/OemDmTrigger/OemDmTrigger.apk
+[Libraries]: /system/priv-app/OemDmTrigger/lib/arm64
+
+[ID]: 10043
+[Dir]: /data/user/0/com.crdroid.weather.client
+[Package]: com.crdroid.weather.client
+[Dir]: /system/priv-app/WeatherClient/WeatherClient.apk
+[Libraries]: /system/priv-app/WeatherClient/lib/arm64
+
+[ID]: 10105
+[Dir]: /data/user/0/com.android.wellbeing.theme.black
+[Package]: com.android.wellbeing.theme.black
+[Dir]: /system/app/WellbeingBlack/WellbeingBlack.apk
+[Libraries]: /system/app/WellbeingBlack/lib/arm64
+
+[Name]: com.android.documentsui.DocumentsApplication
+[ID]: 10032
+[Dir]: /data/user/0/com.android.documentsui
+[Package]: com.android.documentsui
+[Dir]: /system/priv-app/DocumentsUI/DocumentsUI.apk
+[Libraries]: /system/priv-app/DocumentsUI/lib/arm64
+
+[ID]: 10003
+[Dir]: /data/user/0/android.auto_generated_rro__
+[Package]: android.auto_generated_rro__
+[Dir]: /vendor/overlay/framework-res__auto_generated_rro.apk
+[Libraries]: /vendor/lib64/framework-res__auto_generated_rro
+[Affinity]: null
+
+[ID]: 10017
+[Dir]: /data/user/0/com.android.externalstorage
+[Package]: com.android.externalstorage
+[Dir]: /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+[Libraries]: /system/priv-app/ExternalStorageProvider/lib/arm64
+
+[ID]: 10100
+[Dir]: /data/user/0/com.android.htmlviewer
+[Package]: com.android.htmlviewer
+[Dir]: /system/app/HTMLViewer/HTMLViewer.apk
+[Libraries]: /system/app/HTMLViewer/lib/arm64
+
+[ID]: 10098
+[Dir]: /data/user/0/com.android.companiondevicemanager
+[Package]: com.android.companiondevicemanager
+[Dir]: /system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+[Libraries]: /system/app/CompanionDeviceManager/lib/arm64
+
+[ID]: 10083
+[Dir]: /data/user/0/com.accents.bluegrey
+[Package]: com.accents.bluegrey
+[Dir]: /system/app/BlueGrey/BlueGrey.apk
+[Libraries]: /system/app/BlueGrey/lib/arm64
+
+[ID]: 10011
+[Dir]: /data/user/0/com.verizon.obdm_permissions
+[Package]: com.verizon.obdm_permissions
+[Dir]: /system/priv-app/OBDM_Permissions/OBDM_Permissions.apk
+[Libraries]: /system/priv-app/OBDM_Permissions/lib/arm64
+[Affinity]: null
+
+[ID]: 1001
+[Dir]: /data/user/0/com.android.mms.service
+[Package]: com.android.mms.service
+[Dir]: /system/priv-app/MmsService/MmsService.apk
+[Libraries]: /system/priv-app/MmsService/lib/arm64
+[Process]: com.android.phone
+
+[ID]: 10009
+[Dir]: /data/user/0/com.android.providers.downloads
+[Package]: com.android.providers.downloads
+[Dir]: /system/priv-app/DownloadProvider/DownloadProvider.apk
+[Libraries]: /system/priv-app/DownloadProvider/lib/arm64
+[Process]: android.process.media
+
+[Name]: com.android.messaging.BugleApplication
+[ID]: 10155
+[Dir]: /data/user/0/com.android.messaging
+[Package]: com.android.messaging
+[Dir]: /system/app/messaging/messaging.apk
+[Libraries]: /system/app/messaging/lib/arm64
+
+[ID]: 10064
+[Dir]: /data/user/0/com.android.terminal
+[Package]: com.android.terminal
+[Dir]: /system/app/Terminal/Terminal.apk
+[Libraries]: /system/app/Terminal/lib/arm64
+
+[ID]: 10068
+[Dir]: /data/user/0/com.crdroid.overlay.hidecutout
+[Package]: com.crdroid.overlay.hidecutout
+[Dir]: /system/app/HideCutout/HideCutout.apk
+[Libraries]: /system/app/HideCutout/lib/arm64
+
+[ID]: 10110
+[Dir]: /data/user/0/com.android.systemui.qstile.squircle
+[Package]: com.android.systemui.qstile.squircle
+[Dir]: /system/app/QStileSquircle/QStileSquircle.apk
+[Libraries]: /system/app/QStileSquircle/lib/arm64
+
+[Name]: icu.nullptr.hidemyapplist.MyApp
+[ID]: 10164
+[Dir]: /data/user/0/com.tsng.hidemyapplist
+[Package]: com.tsng.hidemyapplist
+[Dir]: /data/app/com.tsng.hidemyapplist-Au8YP4iYivddT_HC88IE3w==/base.apk
+[Libraries]: /data/app/com.tsng.hidemyapplist-Au8YP4iYivddT_HC88IE3w==/lib/arm64
+
+[ID]: 10127
+[Dir]: /data/user/0/com.android.systemui.qsheader.lightgrey
+[Package]: com.android.systemui.qsheader.lightgrey
+[Dir]: /system/app/QSHeaderLightGrey/QSHeaderLightGrey.apk
+[Libraries]: /system/app/QSHeaderLightGrey/lib/arm64
+
+[ID]: 10086
+[Dir]: /data/user/0/com.android.systemui.qsheader.transparent
+[Package]: com.android.systemui.qsheader.transparent
+[Dir]: /system/app/QSHeaderTransparent/QSHeaderTransparent.apk
+[Libraries]: /system/app/QSHeaderTransparent/lib/arm64
+
+[ID]: 10103
+[Dir]: /data/user/0/com.accents.userseven
+[Package]: com.accents.userseven
+[Dir]: /system/app/UserSeven/UserSeven.apk
+[Libraries]: /system/app/UserSeven/lib/arm64
+
+[ID]: 10065
+[Dir]: /data/user/0/com.accents.userthree
+[Package]: com.accents.userthree
+[Dir]: /system/app/UserThree/UserThree.apk
+[Libraries]: /system/app/UserThree/lib/arm64
+
+[ID]: 10062
+[Dir]: /data/user/0/com.android.systemui.qstile.squircletrim
+[Package]: com.android.systemui.qstile.squircletrim
+[Dir]: /system/app/QStileSquircleTrim/QStileSquircleTrim.apk
+[Libraries]: /system/app/QStileSquircleTrim/lib/arm64
+
+[ID]: 10050
+[Dir]: /data/user/0/com.accents.userfive
+[Package]: com.accents.userfive
+[Dir]: /system/app/UserFive/UserFive.apk
+[Libraries]: /system/app/UserFive/lib/arm64
+
+[ID]: 10089
+[Dir]: /data/user/0/com.accents.userfour
+[Package]: com.accents.userfour
+[Dir]: /system/app/UserFour/UserFour.apk
+[Libraries]: /system/app/UserFour/lib/arm64
+
+[Name]: com.qualcomm.qti.telephonyservice.QtiTelephonyApplication
+[ID]: 10163
+[Dir]: /data/user/0/com.qualcomm.qti.telephonyservice
+[Package]: com.qualcomm.qti.telephonyservice
+[Dir]: /vendor/app/QtiTelephonyService/QtiTelephonyService.apk
+[Libraries]: /vendor/app/QtiTelephonyService/lib/arm64
+
+[ID]: 10119
+[Dir]: /data/user/0/com.accents.lightgreen
+[Package]: com.accents.lightgreen
+[Dir]: /system/app/LightGreen/LightGreen.apk
+[Libraries]: /system/app/LightGreen/lib/arm64
+
+[Name]: h.dS
+[ID]: 10169
+[Dir]: /data/user/0/k.d.zf
+[Package]: k.d.zf
+[Dir]: /data/app/k.d.zf-EkTb56lW7e2pp6LFCCyU8A==/base.apk
+[Libraries]: /data/app/k.d.zf-EkTb56lW7e2pp6LFCCyU8A==/lib/arm64
+
+[ID]: 10069
+[Dir]: /data/user/0/com.android.systemui.qstile.ink
+[Package]: com.android.systemui.qstile.ink
+[Dir]: /system/app/QStileInk/QStileInk.apk
+[Libraries]: /system/app/QStileInk/lib/arm64
+
+[Name]: org.lineageos.lockclock.WidgetApplication
+[ID]: 10108
+[Dir]: /data/user/0/org.lineageos.lockclock
+[Package]: org.lineageos.lockclock
+[Dir]: /system/app/LockClock/LockClock.apk
+[Libraries]: /system/app/LockClock/lib/arm64
+
+[ID]: 10168
+[Dir]: /data/user/0/io.appium.uiautomator2.server
+[Package]: io.appium.uiautomator2.server
+[Dir]: /data/app/io.appium.uiautomator2.server-LDga9mtv0KzJaV1ByFFILA==/base.apk
+[Libraries]: /data/app/io.appium.uiautomator2.server-LDga9mtv0KzJaV1ByFFILA==/lib/arm64
+
+[ID]: 10005
+[Dir]: /data/user_de/0/com.android.defcontainer
+[Package]: com.android.defcontainer
+[Dir]: /system/priv-app/DefaultContainerService/DefaultContainerService.apk
+[Libraries]: /system/priv-app/DefaultContainerService/lib/arm64
+
+[ID]: 10009
+[Dir]: /data/user/0/com.android.providers.downloads.ui
+[Package]: com.android.providers.downloads.ui
+[Dir]: /system/priv-app/DownloadProviderUi/DownloadProviderUi.apk
+[Libraries]: /system/priv-app/DownloadProviderUi/lib/arm64
+[Process]: android.process.media
+
+[ID]: 10123
+[Dir]: /data/user/0/com.android.pacprocessor
+[Package]: com.android.pacprocessor
+[Dir]: /system/app/PacProcessor/PacProcessor.apk
+[Libraries]: /system/app/PacProcessor/lib/arm64
+
+[ID]: 10084
+[Dir]: /data/user/0/com.android.simappdialog
+[Package]: com.android.simappdialog
+[Dir]: /system/app/SimAppDialog/SimAppDialog.apk
+[Libraries]: /system/app/SimAppDialog/lib/arm64
+
+[ID]: 10075
+[Dir]: /data/user/0/com.android.systemui.qstile.ninja
+[Package]: com.android.systemui.qstile.ninja
+[Dir]: /system/app/QStileNinja/QStileNinja.apk
+[Libraries]: /system/app/QStileNinja/lib/arm64
+
+[ID]: 10053
+[Dir]: /data/user/0/com.android.systemui.qstile.wavey
+[Package]: com.android.systemui.qstile.wavey
+[Dir]: /system/app/QStileWavey/QStileWavey.apk
+[Libraries]: /system/app/QStileWavey/lib/arm64
+
+[ID]: 10090
+[Dir]: /data/user/0/com.android.system.switch.stock
+[Package]: com.android.system.switch.stock
+[Dir]: /system/app/StockSwitch/StockSwitch.apk
+[Libraries]: /system/app/StockSwitch/lib/arm64
+
+[ID]: 10125
+[Dir]: /data/user/0/com.accents.indigo
+[Package]: com.accents.indigo
+[Dir]: /system/app/Indigo/Indigo.apk
+[Libraries]: /system/app/Indigo/lib/arm64
+
+[ID]: 10099
+[Dir]: /data/user/0/com.accents.lightblue
+[Package]: com.accents.lightblue
+[Dir]: /system/app/LightBlue/LightBlue.apk
+[Libraries]: /system/app/LightBlue/lib/arm64
+
+[ID]: 10142
+[Dir]: /data/user/0/org.lineageos.profiles
+[Package]: org.lineageos.profiles
+[Dir]: /system/app/Profiles/Profiles.apk
+[Libraries]: /system/app/Profiles/lib/arm64
+
+[ID]: 10102
+[Dir]: /data/user/0/com.google.intelligence.sense.theme.black
+[Package]: com.google.intelligence.sense.theme.black
+[Dir]: /system/app/GoogleIntelligenceSenseBlack/GoogleIntelligenceSenseBlack.apk
+[Libraries]: /system/app/GoogleIntelligenceSenseBlack/lib/arm64
+
+[ID]: 10001
+[Dir]: /data/user/0/com.android.internal.display.cutout.emulation.tall
+[Package]: com.android.internal.display.cutout.emulation.tall
+[Dir]: /vendor/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+[Libraries]: /vendor/overlay/DisplayCutoutEmulationTall/lib/arm64
+
+[ID]: 10143
+[Dir]: /data/user/0/com.android.systemui.qstile.circlegradient
+[Package]: com.android.systemui.qstile.circlegradient
+[Dir]: /system/app/QStileCircleGradient/QStileCircleGradient.apk
+[Libraries]: /system/app/QStileCircleGradient/lib/arm64
+
+[ID]: 10131
+[Dir]: /data/user/0/com.android.certinstaller
+[Package]: com.android.certinstaller
+[Dir]: /system/app/CertInstaller/CertInstaller.apk
+[Libraries]: /system/app/CertInstaller/lib/arm64
+
+[ID]: 10042
+[Dir]: /data/user/0/com.android.carrierconfig
+[Package]: com.android.carrierconfig
+[Dir]: /system/priv-app/CarrierConfig/CarrierConfig.apk
+[Libraries]: /system/priv-app/CarrierConfig/lib/arm64
+
+[ID]: 10154
+[Dir]: /data/user/0/com.android.systemui.qstile.squaremedo
+[Package]: com.android.systemui.qstile.squaremedo
+[Dir]: /system/app/QStileSquaremedo/QStileSquaremedo.apk
+[Libraries]: /system/app/QStileSquaremedo/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.qti.qualcomm.datastatusnotification
+[Package]: com.qti.qualcomm.datastatusnotification
+[Dir]: /vendor/app/datastatusnotification/datastatusnotification.apk
+[Libraries]: /vendor/app/datastatusnotification/lib/arm64
+[Process]: com.android.phone
+
+[ID]: 1000
+[Dir]: /data/system
+[Package]: android
+[Dir]: /system/framework/framework-res.apk
+[Libraries]: /system/lib64/framework-res
+[Process]: system
+
+[ID]: 10018
+[Dir]: /data/user/0/com.android.hotwordenrollment.xgoogle
+[Package]: com.android.hotwordenrollment.xgoogle
+[Dir]: /system/priv-app/HotwordEnrollmentXGoogleWCD9335/HotwordEnrollmentXGoogleWCD9335.apk
+[Libraries]: /system/priv-app/HotwordEnrollmentXGoogleWCD9335/lib/arm64
+
+[ID]: 10124
+[Dir]: /data/user/0/com.android.sysui.theme.black
+[Package]: com.android.sysui.theme.black
+[Dir]: /system/app/SysUIBlack/SysUIBlack.apk
+[Libraries]: /system/app/SysUIBlack/lib/arm64
+
+[Name]: com.android.contacts.ContactsApplication
+[ID]: 10020
+[Dir]: /data/user/0/com.android.contacts
+[Package]: com.android.contacts
+[Dir]: /system/priv-app/Contacts/Contacts.apk
+[Libraries]: /system/priv-app/Contacts/lib/arm64
+[Affinity]: android.task.contacts
+
+[Name]: com.android.camera.app.CameraApp
+[ID]: 10023
+[Dir]: /data/user/0/com.android.camera2
+[Package]: com.android.camera2
+[Dir]: /system/priv-app/Camera2/Camera2.apk
+[Libraries]: /system/priv-app/Camera2/lib/arm64
+
+[ID]: 10093
+[Dir]: /data/user/0/com.accents.orange
+[Package]: com.accents.orange
+[Dir]: /system/app/Orange/Orange.apk
+[Libraries]: /system/app/Orange/lib/arm64
+
+[ID]: 10130
+[Dir]: /data/user/0/com.android.systemui.qstile.dualtonecircletrim
+[Package]: com.android.systemui.qstile.dualtonecircletrim
+[Dir]: /system/app/QStileDualToneCircle/QStileDualToneCircle.apk
+[Libraries]: /system/app/QStileDualToneCircle/lib/arm64
+
+[ID]: 10036
+[Dir]: /data/user/0/org.lineageos.recorder
+[Package]: org.lineageos.recorder
+[Dir]: /system/priv-app/Recorder/Recorder.apk
+[Libraries]: /system/priv-app/Recorder/lib/arm64
+
+[ID]: 10150
+[Dir]: /data/user/0/com.accents.purple
+[Package]: com.accents.purple
+[Dir]: /system/app/Purple/Purple.apk
+[Libraries]: /system/app/Purple/lib/arm64
+
+[ID]: 10112
+[Dir]: /data/user/0/com.android.systemui.qstile.mountain
+[Package]: com.android.systemui.qstile.mountain
+[Dir]: /system/app/QStileMountain/QStileMountain.apk
+[Libraries]: /system/app/QStileMountain/lib/arm64
+
+[ID]: 10079
+[Dir]: /data/user/0/com.android.egg
+[Package]: com.android.egg
+[Dir]: /system/app/EasterEgg/EasterEgg.apk
+[Libraries]: /system/app/EasterEgg/lib/arm64
+
+[ID]: 10009
+[Dir]: /data/user/0/com.android.mtp
+[Package]: com.android.mtp
+[Dir]: /system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk
+[Libraries]: /system/priv-app/MtpDocumentsProvider/lib/arm64
+
+[Name]: com.android.nfc.NfcApplication
+[ID]: 1027
+[Dir]: /data/user/0/com.android.nfc
+[Package]: com.android.nfc
+[Dir]: /system/app/NfcNci/NfcNci.apk
+[Libraries]: /system/app/NfcNci/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user_de/0/com.android.stk
+[Package]: com.android.stk
+[Dir]: /system/app/Stk/Stk.apk
+[Libraries]: /system/app/Stk/lib/arm64
+[Process]: com.android.phone
+[Affinity]: android.task.stk
+
+[ID]: 1000
+[Dir]: /data/user/0/com.android.launcher3
+[Package]: com.android.launcher3
+[Dir]: /system/priv-app/Launcher3QuickStep/Launcher3QuickStep.apk
+[Libraries]: /system/priv-app/Launcher3QuickStep/lib/arm64
+
+[ID]: 10033
+[Dir]: /data/user/0/com.android.backupconfirm
+[Package]: com.android.backupconfirm
+[Dir]: /system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+[Libraries]: /system/priv-app/BackupRestoreConfirmation/lib/arm64
+
+[ID]: 10045
+[Dir]: /data/user_de/0/org.lineageos.weather.provider
+[Package]: org.lineageos.weather.provider
+[Dir]: /system/priv-app/WeatherProvider/WeatherProvider.apk
+[Libraries]: /system/priv-app/WeatherProvider/lib/arm64
+
+[ID]: 10120
+[Dir]: /data/user/0/com.google.intelligence.sense.theme.dark
+[Package]: com.google.intelligence.sense.theme.dark
+[Dir]: /system/app/GoogleIntelligenceSenseDark/GoogleIntelligenceSenseDark.apk
+[Libraries]: /system/app/GoogleIntelligenceSenseDark/lib/arm64
+
+[ID]: 10040
+[Dir]: /data/user/0/com.android.provision
+[Package]: com.android.provision
+[Dir]: /system/priv-app/Provision/Provision.apk
+[Libraries]: /system/priv-app/Provision/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.qualcomm.qti.radioconfiginterface
+[Package]: com.qualcomm.qti.radioconfiginterface
+[Dir]: /vendor/app/radioconfig/radioconfig.apk
+[Libraries]: /vendor/app/radioconfig/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/org.codeaurora.ims
+[Package]: org.codeaurora.ims
+[Dir]: /system/app/ims/ims.apk
+[Libraries]: /system/app/ims/lib/arm64
+
+[ID]: 10031
+[Dir]: /data/user/0/com.android.statementservice
+[Package]: com.android.statementservice
+[Dir]: /system/priv-app/StatementService/StatementService.apk
+[Libraries]: /system/priv-app/StatementService/lib/arm64
+
+[ID]: 10117
+[Dir]: /data/user/0/com.accents.yellow
+[Package]: com.accents.yellow
+[Dir]: /system/app/Yellow/Yellow.apk
+[Libraries]: /system/app/Yellow/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.android.sdm.plugins.sprintdm
+[Package]: com.android.sdm.plugins.sprintdm
+[Dir]: /system/priv-app/SprintDM/SprintDM.apk
+[Libraries]: /system/priv-app/SprintDM/lib/arm64
+
+[ID]: 10019
+[Dir]: /data/user/0/com.android.settings.intelligence
+[Package]: com.android.settings.intelligence
+[Dir]: /system/priv-app/SettingsIntelligence/SettingsIntelligence.apk
+[Libraries]: /system/priv-app/SettingsIntelligence/lib/arm64
+
+[Name]: com.android.calendar.CalendarApplication
+[ID]: 10122
+[Dir]: /data/user/0/com.android.calendar
+[Package]: com.android.calendar
+[Dir]: /system/app/Calendar/Calendar.apk
+[Libraries]: /system/app/Calendar/lib/arm64
+[Affinity]: android.task.calendar
+
+[ID]: 10000
+[Dir]: /data/user/0/com.android.systemui.theme.dark
+[Package]: com.android.systemui.theme.dark
+[Dir]: /vendor/overlay/SysuiDarkTheme/SysuiDarkThemeOverlay.apk
+[Libraries]: /vendor/overlay/SysuiDarkTheme/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.qualcomm.qti.auth.secureextauthservice
+[Package]: com.qualcomm.qti.auth.secureextauthservice
+[Dir]: /vendor/app/SecureExtAuthService/SecureExtAuthService.apk
+[Libraries]: /vendor/app/SecureExtAuthService/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.qualcomm.qcrilmsgtunnel
+[Package]: com.qualcomm.qcrilmsgtunnel
+[Dir]: /system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
+[Libraries]: /system/priv-app/qcrilmsgtunnel/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/com.android.providers.settings
+[Package]: com.android.providers.settings
+[Dir]: /system/priv-app/SettingsProvider/SettingsProvider.apk
+[Libraries]: /system/priv-app/SettingsProvider/lib/arm64
+[Process]: system
+
+[ID]: 10014
+[Dir]: /data/user/0/com.android.sharedstoragebackup
+[Package]: com.android.sharedstoragebackup
+[Dir]: /system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+[Libraries]: /system/priv-app/SharedStorageBackup/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.google.android.asdiv
+[Package]: com.google.android.asdiv
+[Dir]: /system/priv-app/Asdiv/Asdiv.apk
+[Libraries]: /system/priv-app/Asdiv/lib/arm64
+
+[ID]: 10138
+[Dir]: /data/user/0/com.android.printspooler
+[Package]: com.android.printspooler
+[Dir]: /system/app/PrintSpooler/PrintSpooler.apk
+[Libraries]: /system/app/PrintSpooler/lib/arm64
+
+[ID]: 10048
+[Dir]: /data/user/0/com.android.hotwordenrollment.okgoogle
+[Package]: com.android.hotwordenrollment.okgoogle
+[Dir]: /system/priv-app/HotwordEnrollmentOKGoogleWCD9335/HotwordEnrollmentOKGoogleWCD9335.apk
+[Libraries]: /system/priv-app/HotwordEnrollmentOKGoogleWCD9335/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.android.sdm.plugins.diagmon
+[Package]: com.android.sdm.plugins.diagmon
+[Dir]: /system/priv-app/DiagMon/DiagMon.apk
+[Libraries]: /system/priv-app/DiagMon/lib/arm64
+[Process]: com.android.phone
+
+[ID]: 10063
+[Dir]: /data/user/0/com.android.dreams.basic
+[Package]: com.android.dreams.basic
+[Dir]: /system/app/BasicDreams/BasicDreams.apk
+[Libraries]: /system/app/BasicDreams/lib/arm64
+
+[ID]: 10133
+[Dir]: /data/user/0/com.android.gboard.theme.dark
+[Package]: com.android.gboard.theme.dark
+[Dir]: /system/app/GBoardDark/GBoardDark.apk
+[Libraries]: /system/app/GBoardDark/lib/arm64
+
+[Name]: com.android.webview.chromium.WebViewApplication
+[ID]: 10080
+[Dir]: /data/user/0/com.android.webview
+[Package]: com.android.webview
+[Dir]: /system/app/webview/webview.apk
+[Libraries]: /system/app/webview/lib/arm
+
+[Name]: com.android.se.SEApplication
+[ID]: 1068
+[Dir]: /data/user/0/com.android.se
+[Package]: com.android.se
+[Dir]: /system/app/SecureElement/SecureElement.apk
+[Libraries]: /system/app/SecureElement/lib/arm64
+
+[ID]: 10181
+[Dir]: /data/user/0/com.vitaodoidao.vdinfos
+[Package]: com.vitaodoidao.vdinfos
+[Dir]: /data/app/com.vitaodoidao.vdinfos-Cnjg4UBWTYpr352d-Q9alQ==/base.apk
+[Libraries]: /data/app/com.vitaodoidao.vdinfos-Cnjg4UBWTYpr352d-Q9alQ==/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/com.android.inputdevices
+[Package]: com.android.inputdevices
+[Dir]: /system/priv-app/InputDevices/InputDevices.apk
+[Libraries]: /system/priv-app/InputDevices/lib/arm64
+[Process]: system
+
+[ID]: 10067
+[Dir]: /data/user/0/com.android.systemui.qstile.pokesign
+[Package]: com.android.systemui.qstile.pokesign
+[Dir]: /system/app/QStilePokesign/QStilePokesign.apk
+[Libraries]: /system/app/QStilePokesign/lib/arm64
+
+[ID]: 10047
+[Dir]: /data/user/0/com.android.hotwordenrollment.tgoogle
+[Package]: com.android.hotwordenrollment.tgoogle
+[Dir]: /system/priv-app/HotwordEnrollmentTGoogleWCD9335/HotwordEnrollmentTGoogleWCD9335.apk
+[Libraries]: /system/priv-app/HotwordEnrollmentTGoogleWCD9335/lib/arm64
+
+[ID]: 10061
+[Dir]: /data/user/0/com.android.bips
+[Package]: com.android.bips
+[Dir]: /system/app/BuiltInPrintService/BuiltInPrintService.apk
+[Libraries]: /system/app/BuiltInPrintService/lib/arm64
+
+[ID]: 10046
+[Dir]: /data/user/0/com.google.android.carrier.authdialog
+[Package]: com.google.android.carrier.authdialog
+[Dir]: /system/priv-app/VerizonAuthDialog/VerizonAuthDialog.apk
+[Libraries]: /system/priv-app/VerizonAuthDialog/lib/arm64
+
+[ID]: 10074
+[Dir]: /data/user/0/com.accents.amber
+[Package]: com.accents.amber
+[Dir]: /system/app/Amber/Amber.apk
+[Libraries]: /system/app/Amber/lib/arm64
+
+[ID]: 10092
+[Dir]: /data/user/0/com.accents.black
+[Package]: com.accents.black
+[Dir]: /system/app/Black/Black.apk
+[Libraries]: /system/app/Black/lib/arm64
+
+[ID]: 10156
+[Dir]: /data/user/0/com.accents.brown
+[Package]: com.accents.brown
+[Dir]: /system/app/Brown/Brown.apk
+[Libraries]: /system/app/Brown/lib/arm64
+
+[ID]: 10077
+[Dir]: /data/user/0/com.accents.green
+[Package]: com.accents.green
+[Dir]: /system/app/Green/Green.apk
+[Libraries]: /system/app/Green/lib/arm64
+
+[ID]: 10140
+[Dir]: /data/user/0/com.accents.white
+[Package]: com.accents.white
+[Dir]: /system/app/White/White.apk
+[Libraries]: /system/app/White/lib/arm64
+
+[Name]: com.android.cellbroadcastreceiver.CellBroadcastReceiverApp
+[ID]: 10010
+[Dir]: /data/user_de/0/com.android.cellbroadcastreceiver
+[Package]: com.android.cellbroadcastreceiver
+[Dir]: /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
+[Libraries]: /system/priv-app/CellBroadcastReceiver/lib/arm64
+
+[ID]: 10095
+[Dir]: /data/user_de/0/android.ext.shared
+[Package]: android.ext.shared
+[Dir]: /system/app/ExtShared/ExtShared.apk
+[Libraries]: /system/app/ExtShared/lib/arm64
+
+[ID]: 10030
+[Dir]: /data/user/0/com.android.onetimeinitializer
+[Package]: com.android.onetimeinitializer
+[Dir]: /system/priv-app/OneTimeInitializer/OneTimeInitializer.apk
+[Libraries]: /system/priv-app/OneTimeInitializer/lib/arm64
+
+[ID]: 10111
+[Dir]: /data/user/0/com.android.systemui.qstile.circletrim
+[Package]: com.android.systemui.qstile.circletrim
+[Dir]: /system/app/QStileCircleTrim/QStileCircleTrim.apk
+[Libraries]: /system/app/QStileCircleTrim/lib/arm64
+
+[ID]: 10165
+[Dir]: /data/user/0/com.genymobile.gnirehtet
+[Package]: com.genymobile.gnirehtet
+[Dir]: /data/app/com.genymobile.gnirehtet-mzu9HGSlZWtU-2RG3TMA7Q==/base.apk
+[Libraries]: /data/app/com.genymobile.gnirehtet-mzu9HGSlZWtU-2RG3TMA7Q==/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/com.android.server.telecom
+[Package]: com.android.server.telecom
+[Dir]: /system/priv-app/Telecom/Telecom.apk
+[Libraries]: /system/priv-app/Telecom/lib/arm64
+[Process]: system
+
+[ID]: 1000
+[Dir]: /data/user/0/com.android.keychain
+[Package]: com.android.keychain
+[Dir]: /system/app/KeyChain/KeyChain.apk
+[Libraries]: /system/app/KeyChain/lib/arm64
+
+[Name]: com.android.service.ims.RcsServiceApp
+[ID]: 1001
+[Dir]: /data/user/0/com.android.service.ims
+[Package]: com.android.service.ims
+[Dir]: /system/app/RcsService/RcsService.apk
+[Libraries]: /system/app/RcsService/lib/arm64
+[Process]: com.android.ims.rcsservice
+
+[ID]: 10071
+[Dir]: /data/user/0/com.android.printservice.recommendation
+[Package]: com.android.printservice.recommendation
+[Dir]: /system/app/PrintRecommendationService/PrintRecommendationService.apk
+[Libraries]: /system/app/PrintRecommendationService/lib/arm64
+
+[ID]: 10151
+[Dir]: /data/user/0/com.accents.blue
+[Package]: com.accents.blue
+[Dir]: /system/app/Blue/Blue.apk
+[Libraries]: /system/app/Blue/lib/arm64
+
+[ID]: 10082
+[Dir]: /data/user/0/com.accents.cyan
+[Package]: com.accents.cyan
+[Dir]: /system/app/Cyan/Cyan.apk
+[Libraries]: /system/app/Cyan/lib/arm64
+
+[ID]: 10115
+[Dir]: /data/user/0/com.accents.grey
+[Package]: com.accents.grey
+[Dir]: /system/app/Grey/Grey.apk
+[Libraries]: /system/app/Grey/lib/arm64
+
+[ID]: 10149
+[Dir]: /data/user/0/com.accents.lime
+[Package]: com.accents.lime
+[Dir]: /system/app/Lime/Lime.apk
+[Libraries]: /system/app/Lime/lib/arm64
+
+[ID]: 10109
+[Dir]: /data/user/0/com.accents.pink
+[Package]: com.accents.pink
+[Dir]: /system/app/Pink/Pink.apk
+[Libraries]: /system/app/Pink/lib/arm64
+
+[ID]: 10116
+[Dir]: /data/user/0/com.accents.teal
+[Package]: com.accents.teal
+[Dir]: /system/app/Teal/Teal.apk
+[Libraries]: /system/app/Teal/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.qualcomm.qti.rcsbootstraputil
+[Package]: com.qualcomm.qti.rcsbootstraputil
+[Dir]: /vendor/app/RCSBootstraputil/RCSBootstraputil.apk
+[Libraries]: /vendor/app/RCSBootstraputil/lib/arm64
+
+[Name]: com.android.dialer.binary.aosp.AospDialerApplication
+[ID]: 10026
+[Dir]: /data/user/0/com.android.dialer
+[Package]: com.android.dialer
+[Dir]: /system/priv-app/Dialer/Dialer.apk
+[Libraries]: /system/priv-app/Dialer/lib/arm64
+
+[Name]: com.android.gallery3d.app.GalleryAppImpl
+[ID]: 10008
+[Dir]: /data/user/0/com.android.gallery3d
+[Package]: com.android.gallery3d
+[Dir]: /system/priv-app/Gallery2/Gallery2.apk
+[Libraries]: /system/priv-app/Gallery2/lib/arm64
+
+[ID]: 10144
+[Dir]: /data/user/0/com.android.system.theme.black
+[Package]: com.android.system.theme.black
+[Dir]: /system/app/SystemBlack/SystemBlack.apk
+[Libraries]: /system/app/SystemBlack/lib/arm64
+
+[ID]: 10044
+[Dir]: /data/user_de/0/android.ext.services
+[Package]: android.ext.services
+[Dir]: /system/priv-app/ExtServices/ExtServices.apk
+[Libraries]: /system/priv-app/ExtServices/lib/arm64
+
+[ID]: 10006
+[Dir]: /data/user/0/com.android.calllogbackup
+[Package]: com.android.calllogbackup
+[Dir]: /system/priv-app/CallLogBackup/CallLogBackup.apk
+[Libraries]: /system/priv-app/CallLogBackup/lib/arm64
+
+[ID]: 10060
+[Dir]: /data/user/0/com.android.wellbeing.theme.dark
+[Package]: com.android.wellbeing.theme.dark
+[Dir]: /system/app/WellbeingDark/WellbeingDark.apk
+[Libraries]: /system/app/WellbeingDark/lib/arm64
+
+[Name]: com.android.packageinstaller.PackageInstallerApplication
+[ID]: 10007
+[Dir]: /data/user_de/0/com.android.packageinstaller
+[Package]: com.android.packageinstaller
+[Dir]: /system/priv-app/PackageInstaller/PackageInstaller.apk
+[Libraries]: /system/priv-app/PackageInstaller/lib/arm64
+
+[ID]: 10147
+[Dir]: /data/user/0/com.android.settings.intelligence.theme.black
+[Package]: com.android.settings.intelligence.theme.black
+[Dir]: /system/app/SettingsIntelligenceBlack/SettingsIntelligenceBlack.apk
+[Libraries]: /system/app/SettingsIntelligenceBlack/lib/arm64
+
+[ID]: 10094
+[Dir]: /data/user/0/com.android.carrierdefaultapp
+[Package]: com.android.carrierdefaultapp
+[Dir]: /system/app/CarrierDefaultApp/CarrierDefaultApp.apk
+[Libraries]: /system/app/CarrierDefaultApp/lib/arm64
+
+[Name]: org.lineageos.jelly.JellyApp
+[ID]: 10054
+[Dir]: /data/user/0/org.lineageos.jelly
+[Package]: org.lineageos.jelly
+[Dir]: /system/app/Jelly/Jelly.apk
+[Libraries]: /system/app/Jelly/lib/arm64
+
+[ID]: 10039
+[Dir]: /data/user_de/0/com.android.proxyhandler
+[Package]: com.android.proxyhandler
+[Dir]: /system/priv-app/ProxyHandler/ProxyHandler.apk
+[Libraries]: /system/priv-app/ProxyHandler/lib/arm64
+
+[ID]: 10049
+[Dir]: /data/user/0/com.crdroid.overlay.statusbarstock
+[Package]: com.crdroid.overlay.statusbarstock
+[Dir]: /system/app/StatusBarStock/StatusBarStock.apk
+[Libraries]: /system/app/StatusBarStock/lib/arm64
+
+[ID]: 10158
+[Dir]: /data/user_de/0/com.android.inputmethod.latin
+[Package]: com.android.inputmethod.latin
+[Dir]: /system/app/LatinIME/LatinIME.apk
+[Libraries]: /system/app/LatinIME/lib/arm64
+
+[ID]: 10128
+[Dir]: /data/user/0/com.android.system.switch.md2
+[Package]: com.android.system.switch.md2
+[Dir]: /system/app/MD2Switch/MD2Switch.apk
+[Libraries]: /system/app/MD2Switch/lib/arm64
+
+[ID]: 10028
+[Dir]: /data/user/0/com.android.managedprovisioning
+[Package]: com.android.managedprovisioning
+[Dir]: /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+[Libraries]: /system/priv-app/ManagedProvisioning/lib/arm64
+
+[ID]: 10129
+[Dir]: /data/user/0/com.android.system.notification.dark
+[Package]: com.android.system.notification.dark
+[Dir]: /system/app/NotificationDark/NotificationDark.apk
+[Libraries]: /system/app/NotificationDark/lib/arm64
+
+[ID]: 10157
+[Dir]: /data/user/0/com.android.dreams.phototable
+[Package]: com.android.dreams.phototable
+[Dir]: /system/app/PhotoTable/PhotoTable.apk
+[Libraries]: /system/app/PhotoTable/lib/arm64
+
+[ID]: 10085
+[Dir]: /data/user/0/com.android.systemui.qstile.dualtonecircle
+[Package]: com.android.systemui.qstile.dualtonecircle
+[Dir]: /system/app/QStileCircleDualTone/QStileCircleDualTone.apk
+[Libraries]: /system/app/QStileCircleDualTone/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.android.sdm.plugins.dcmo
+[Package]: com.android.sdm.plugins.dcmo
+[Dir]: /system/priv-app/DCMO/DCMO.apk
+[Libraries]: /system/priv-app/DCMO/lib/arm64
+[Process]: com.android.phone
+
+[ID]: 10170
+[Dir]: /data/user/0/io.appium.uiautomator2.server.test
+[Package]: io.appium.uiautomator2.server.test
+[Dir]: /data/app/io.appium.uiautomator2.server.test-QRYzoHCFYKisMwtjnB-W_Q==/base.apk
+[Libraries]: /data/app/io.appium.uiautomator2.server.test-QRYzoHCFYKisMwtjnB-W_Q==/lib/arm64
+
+[ID]: 10096
+[Dir]: /data/user/0/com.android.smspush
+[Package]: com.android.smspush
+[Dir]: /system/app/WAPPushManager/WAPPushManager.apk
+[Libraries]: /system/app/WAPPushManager/lib/arm64
+
+[ID]: 10076
+[Dir]: /data/user/0/com.android.settings.intelligence.theme.dark
+[Package]: com.android.settings.intelligence.theme.dark
+[Dir]: /system/app/SettingsIntelligenceDark/SettingsIntelligenceDark.apk
+[Libraries]: /system/app/SettingsIntelligenceDark/lib/arm64
+
+[ID]: 1001
+[Dir]: /data/user/0/com.android.service.ims.presence
+[Package]: com.android.service.ims.presence
+[Dir]: /system/app/PresencePolling/PresencePolling.apk
+[Libraries]: /system/app/PresencePolling/lib/arm64
+[Process]: com.android.ims.rcsservice
+
+[ID]: 10058
+[Dir]: /data/user/0/com.android.wallpaper.livepicker
+[Package]: com.android.wallpaper.livepicker
+[Dir]: /system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+[Libraries]: /system/app/LiveWallpapersPicker/lib/arm64
+
+[Name]: org.lineageos.audiofx.AudioFxApplication
+[ID]: 10041
+[Dir]: /data/user/0/org.lineageos.audiofx
+[Package]: org.lineageos.audiofx
+[Dir]: /system/priv-app/AudioFX/AudioFX.apk
+[Libraries]: /system/priv-app/AudioFX/lib/arm64
+
+[ID]: 10015
+[Dir]: /data/user/0/com.android.apps.tag
+[Package]: com.android.apps.tag
+[Dir]: /system/priv-app/Tag/Tag.apk
+[Libraries]: /system/priv-app/Tag/lib/arm64
+
+[ID]: 10141
+[Dir]: /data/user/0/com.accents.userone
+[Package]: com.accents.userone
+[Dir]: /system/app/UserOne/UserOne.apk
+[Libraries]: /system/app/UserOne/lib/arm64
+
+[ID]: 10066
+[Dir]: /data/user/0/com.accents.usersix
+[Package]: com.accents.usersix
+[Dir]: /system/app/UserSix/UserSix.apk
+[Libraries]: /system/app/UserSix/lib/arm64
+
+[ID]: 10145
+[Dir]: /data/user/0/com.accents.usertwo
+[Package]: com.accents.usertwo
+[Dir]: /system/app/UserTwo/UserTwo.apk
+[Libraries]: /system/app/UserTwo/lib/arm64
+
+[ID]: 10012
+[Dir]: /data/user/0/com.android.storagemanager
+[Package]: com.android.storagemanager
+[Dir]: /system/priv-app/StorageManager/StorageManager.apk
+[Libraries]: /system/priv-app/StorageManager/lib/arm64
+
+[ID]: 10087
+[Dir]: /data/user/0/com.android.bookmarkprovider
+[Package]: com.android.bookmarkprovider
+[Dir]: /system/app/BookmarkProvider/BookmarkProvider.apk
+[Libraries]: /system/app/BookmarkProvider/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/com.android.settings
+[Package]: com.android.settings
+[Dir]: /system/priv-app/Settings/Settings.apk
+[Libraries]: /system/priv-app/Settings/lib/arm64
+[Affinity]: null
+
+[ID]: 1001
+[Dir]: /data/user/0/com.qualcomm.qti.ims
+[Package]: com.qualcomm.qti.ims
+[Dir]: /vendor/app/imssettings/imssettings.apk
+[Libraries]: /vendor/app/imssettings/lib/arm64
+
+[Name]: com.google.android.wfcactivation.WfcActivationApplication
+[ID]: 10024
+[Dir]: /data/user/0/com.google.android.wfcactivation
+[Package]: com.google.android.wfcactivation
+[Dir]: /system/priv-app/WfcActivation/WfcActivation.apk
+[Libraries]: /system/priv-app/WfcActivation/lib/arm64
+
+[ID]: 10055
+[Dir]: /data/user/0/com.android.calculator2
+[Package]: com.android.calculator2
+[Dir]: /system/app/ExactCalculator/ExactCalculator.apk
+[Libraries]: /system/app/ExactCalculator/lib/arm64
+
+[ID]: 10013
+[Dir]: /data/user/0/com.verizon.obdm
+[Package]: com.verizon.obdm
+[Dir]: /system/priv-app/obdm_stub/obdm_stub.apk
+[Libraries]: /system/priv-app/obdm_stub/lib/arm64
+
+[ID]: 10021
+[Dir]: /data/user/0/com.android.omadm.service
+[Package]: com.android.omadm.service
+[Dir]: /system/priv-app/DMService/DMService.apk
+[Libraries]: /system/priv-app/DMService/lib/arm
+
+[ID]: 10088
+[Dir]: /data/user/0/com.android.cts.ctsshim
+[Package]: com.android.cts.ctsshim
+[Dir]: /system/app/CtsShimPrebuilt/CtsShimPrebuilt.apk
+[Libraries]: /system/app/CtsShimPrebuilt/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/org.lineageos.lineageparts
+[Package]: org.lineageos.lineageparts
+[Dir]: /system/priv-app/LineageParts/LineageParts.apk
+[Libraries]: /system/priv-app/LineageParts/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.google.android.hiddenmenu
+[Package]: com.google.android.hiddenmenu
+[Dir]: /system/priv-app/SprintHM/SprintHM.apk
+[Libraries]: /system/priv-app/SprintHM/lib/arm64
+
+[ID]: 10070
+[Dir]: /data/user/0/com.android.systemui.qstile.default
+[Package]: com.android.systemui.qstile.default
+[Dir]: /system/app/QStileDefault/QStileDefault.apk
+[Libraries]: /system/app/QStileDefault/lib/arm64
+
+[ID]: 10121
+[Dir]: /data/user/0/com.android.system.theme.dark
+[Package]: com.android.system.theme.dark
+[Dir]: /system/app/SystemDark/SystemDark.apk
+[Libraries]: /system/app/SystemDark/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/org.lineageos.lineagesettings
+[Package]: org.lineageos.lineagesettings
+[Dir]: /system/priv-app/LineageSettingsProvider/LineageSettingsProvider.apk
+[Libraries]: /system/priv-app/LineageSettingsProvider/lib/arm64
+[Process]: system
+
+[ID]: 10113
+[Dir]: /data/user/0/com.crdroid.fonts
+[Package]: com.crdroid.fonts
+[Dir]: /system/app/crDroidFonts/crDroidFonts.apk
+[Libraries]: /system/app/crDroidFonts/lib/arm64
+
+[Name]: com.crdroid.music.App
+[ID]: 10135
+[Dir]: /data/user/0/com.crdroid.music
+[Package]: com.crdroid.music
+[Dir]: /system/app/crDroidMusic/crDroidMusic.apk
+[Libraries]: /system/app/crDroidMusic/lib/arm64
+
+[ID]: 10029
+[Dir]: /data/user/0/com.android.vpndialogs
+[Package]: com.android.vpndialogs
+[Dir]: /system/priv-app/VpnDialogs/VpnDialogs.apk
+[Libraries]: /system/priv-app/VpnDialogs/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/lineageos.platform
+[Package]: lineageos.platform
+[Dir]: /system/framework/org.lineageos.platform-res.apk
+[Libraries]: /system/lib64/org.lineageos.platform-res
+[Process]: system
+
+[ID]: 10056
+[Dir]: /data/user/0/com.accents.red
+[Package]: com.accents.red
+[Dir]: /system/app/Red/Red.apk
+[Libraries]: /system/app/Red/lib/arm64
+
+[Name]: com.android.email.EmailApplication
+[ID]: 10107
+[Dir]: /data/user/0/com.android.email
+[Package]: com.android.email
+[Dir]: /system/app/Email/Email.apk
+[Libraries]: /system/app/Email/lib/arm64
+
+[Name]: com.android.phone.PhoneApp
+[ID]: 1001
+[Dir]: /data/user_de/0/com.android.phone
+[Package]: com.android.phone
+[Dir]: /system/priv-app/TeleService/TeleService.apk
+[Libraries]: /system/priv-app/TeleService/lib/arm64
+
+[ID]: 2000
+[Dir]: /data/user_de/0/com.android.shell
+[Package]: com.android.shell
+[Dir]: /system/priv-app/Shell/Shell.apk
+[Libraries]: /system/priv-app/Shell/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.android.wallpaperbackup
+[Package]: com.android.wallpaperbackup
+[Dir]: /system/app/WallpaperBackup/WallpaperBackup.apk
+[Libraries]: /system/app/WallpaperBackup/lib/arm64
+[Process]: system
+
+[ID]: 10006
+[Dir]: /data/user_de/0/com.android.providers.blockednumber
+[Package]: com.android.providers.blockednumber
+[Dir]: /system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk
+[Libraries]: /system/priv-app/BlockedNumberProvider/lib/arm64
+[Process]: android.process.acore
+
+[ID]: 10073
+[Dir]: /data/user/0/com.android.systemui.qstile.dottedcircle
+[Package]: com.android.systemui.qstile.dottedcircle
+[Dir]: /system/app/QStileDottedCircle/QStileDottedCircle.apk
+[Libraries]: /system/app/QStileDottedCircle/lib/arm64
+
+[ID]: 10006
+[Dir]: /data/user/0/com.android.providers.userdictionary
+[Package]: com.android.providers.userdictionary
+[Dir]: /system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk
+[Libraries]: /system/priv-app/UserDictionaryProvider/lib/arm64
+[Process]: android.process.acore
+
+[ID]: 10038
+[Dir]: /data/user_de/0/com.android.emergency
+[Package]: com.android.emergency
+[Dir]: /system/priv-app/EmergencyInfo/EmergencyInfo.apk
+[Libraries]: /system/priv-app/EmergencyInfo/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user_de/0/com.android.location.fused
+[Package]: com.android.location.fused
+[Dir]: /system/priv-app/FusedLocation/FusedLocation.apk
+[Libraries]: /system/priv-app/FusedLocation/lib/arm64
+[Process]: system
+
+[Name]: com.android.deskclock.DeskClockApplication
+[ID]: 10148
+[Dir]: /data/user/0/com.android.deskclock
+[Package]: com.android.deskclock
+[Dir]: /system/app/DeskClock/DeskClock.apk
+[Libraries]: /system/app/DeskClock/lib/arm64
+
+[Name]: com.android.systemui.SystemUIApplication
+[ID]: 10022
+[Dir]: /data/user_de/0/com.android.systemui
+[Package]: com.android.systemui
+[Dir]: /system/priv-app/SystemUI/SystemUI.apk
+[Libraries]: /system/priv-app/SystemUI/lib/arm64
+
+[ID]: 10051
+[Dir]: /data/user/0/com.android.settings.theme.black
+[Package]: com.android.settings.theme.black
+[Dir]: /system/app/SettingsBlack/SettingsBlack.apk
+[Libraries]: /system/app/SettingsBlack/lib/arm64
+
+[Name]: com.android.exchange.Exchange
+[ID]: 10072
+[Dir]: /data/user/0/com.android.exchange
+[Package]: com.android.exchange
+[Dir]: /system/app/Exchange2/Exchange2.apk
+[Libraries]: /system/app/Exchange2/lib/arm64
+
+[ID]: 10114
+[Dir]: /data/user/0/com.android.settings.theme.dark
+[Package]: com.android.settings.theme.dark
+[Dir]: /system/app/SettingsDark/SettingsDark.apk
+[Libraries]: /system/app/SettingsDark/lib/arm64
+
+[ID]: 10132
+[Dir]: /data/user/0/com.android.systemui.qsheader.grey
+[Package]: com.android.systemui.qsheader.grey
+[Dir]: /system/app/QSHeaderGrey/QSHeaderGrey.apk
+[Libraries]: /system/app/QSHeaderGrey/lib/arm64
+
+[ID]: 10097
+[Dir]: /data/user/0/com.android.bluetoothmidiservice
+[Package]: com.android.bluetoothmidiservice
+[Dir]: /system/app/BluetoothMidiService/BluetoothMidiService.apk
+[Libraries]: /system/app/BluetoothMidiService/lib/arm64
+
+[ID]: 10106
+[Dir]: /data/user/0/com.android.systemui.qsheader.black
+[Package]: com.android.systemui.qsheader.black
+[Dir]: /system/app/QSHeaderBlack/QSHeaderBlack.apk
+[Libraries]: /system/app/QSHeaderBlack/lib/arm64
+
+[ID]: 10078
+[Dir]: /data/user/0/com.android.sysui.theme.dark
+[Package]: com.android.sysui.theme.dark
+[Dir]: /system/app/SysUIDark/SysUIDark.apk
+[Libraries]: /system/app/SysUIDark/lib/arm64
+
+[ID]: 10118
+[Dir]: /data/user/0/com.android.systemui.qstile.inkdrop
+[Package]: com.android.systemui.qstile.inkdrop
+[Dir]: /system/app/QStileInkdrop/QStileInkdrop.apk
+[Libraries]: /system/app/QStileInkdrop/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.qualcomm.fastdormancy
+[Package]: com.qualcomm.fastdormancy
+[Dir]: /vendor/app/fastdormancy/fastdormancy.apk
+[Libraries]: /vendor/app/fastdormancy/lib/arm64
+[Process]: com.qualcomm.telephony
+
+[ID]: 10153
+[Dir]: /data/user/0/com.android.systemui.qstile.oreosquircletrim
+[Package]: com.android.systemui.qstile.oreosquircletrim
+[Dir]: /system/app/QStileOreoSquircleTrim/QStileOreoSquircleTrim.apk
+[Libraries]: /system/app/QStileOreoSquircleTrim/lib/arm64
+
+[ID]: 10136
+[Dir]: /data/user/0/com.android.traceur
+[Package]: com.android.traceur
+[Dir]: /system/app/Traceur/Traceur.apk
+[Libraries]: /system/app/Traceur/lib/arm64
+
+[ID]: 10159
+[Dir]: /data/user/0/qualcomm.com.vzw_msdc_api
+[Package]: qualcomm.com.vzw_msdc_api
+[Dir]: /vendor/app/vzw_msdc_api/vzw_msdc_api.apk
+[Libraries]: /vendor/app/vzw_msdc_api/lib/arm64
+
+[Name]: com.android.bluetooth.btservice.AdapterApp
+[ID]: 1002
+[Dir]: /data/user_de/0/com.android.bluetooth
+[Package]: com.android.bluetooth
+[Dir]: /system/app/Bluetooth/Bluetooth.apk
+[Libraries]: /system/app/Bluetooth/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.qualcomm.timeservice
+[Package]: com.qualcomm.timeservice
+[Dir]: /vendor/app/TimeService/TimeService.apk
+[Libraries]: /vendor/app/TimeService/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.android.development
+[Package]: com.android.development
+[Dir]: /system/app/Development/Development.apk
+[Libraries]: /system/app/Development/lib/arm64
+
+[ID]: 1000
+[Dir]: /data/user/0/com.qualcomm.atfwd
+[Package]: com.qualcomm.atfwd
+[Dir]: /vendor/app/atfwd/atfwd.apk
+[Libraries]: /vendor/app/atfwd/lib/arm64
+[Process]: com.qualcomm.telephony
+
+[ID]: 10081
+[Dir]: /data/user/0/com.android.wallpaperpicker
+[Package]: com.android.wallpaperpicker
+[Dir]: /system/app/WallpaperPicker/WallpaperPicker.apk
+[Libraries]: /system/app/WallpaperPicker/lib/arm64
+
+[ID]: 10161
+[Dir]: /data/user/0/com.qualcomm.embms
+[Package]: com.qualcomm.embms
+[Dir]: /vendor/app/embms/embms.apk
+[Libraries]: /vendor/app/embms/lib/arm64
+
+[ID]: 10006
+[Dir]: /data/user/0/com.android.providers.contacts
+[Package]: com.android.providers.contacts
+[Dir]: /system/priv-app/ContactsProvider/ContactsProvider.apk
+[Libraries]: /system/priv-app/ContactsProvider/lib/arm64
+[Process]: android.process.acore
+
+[ID]: 10152
+[Dir]: /data/user/0/com.android.systemui.qstile.teardrop
+[Package]: com.android.systemui.qstile.teardrop
+[Dir]: /system/app/QStileTeardrop/QStileTeardrop.apk
+[Libraries]: /system/app/QStileTeardrop/lib/arm64
+
+[ID]: 10052
+[Dir]: /data/user/0/com.android.captiveportallogin
+[Package]: com.android.captiveportallogin
+[Dir]: /system/app/CaptivePortalLogin/CaptivePortalLogin.apk
+[Libraries]: /system/app/CaptivePortalLogin/lib/arm64
+
+[ID]: 10134
+[Dir]: /data/user/0/com.android.systemui.qstile.oreo
+[Package]: com.android.systemui.qstile.oreo
+[Dir]: /system/app/QStileOreo/QStileOreo.apk
+[Libraries]: /system/app/QStileOreo/lib/arm64
+
+[ID]: 10146
+[Dir]: /data/user/0/com.android.systemui.qsheader.accent
+[Package]: com.android.systemui.qsheader.accent
+[Dir]: /system/app/QSHeaderAccent/QSHeaderAccent.apk
+[Libraries]: /system/app/QSHeaderAccent/lib/arm64
+
+[ID]: 10016
+[Dir]: /data/user/0/com.android.vzwomatrigger
+[Package]: com.android.vzwomatrigger
+[Dir]: /system/priv-app/VzwOmaTrigger/VzwOmaTrigger.apk
+[Libraries]: /system/priv-app/VzwOmaTrigger/lib/arm64
+
+================
